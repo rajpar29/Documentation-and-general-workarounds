@@ -1,0 +1,5 @@
+# To grant programs root priviliges
+
+sudo chown root:root path/to/command/COMMAND_NAME
+
+sudo chmod 4775 path/to/command/COMMAND_NAME 
